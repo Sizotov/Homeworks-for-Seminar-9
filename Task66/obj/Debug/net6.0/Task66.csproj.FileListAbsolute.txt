@@ -1,0 +1,15 @@
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.csproj.AssemblyReference.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.AssemblyInfoInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.AssemblyInfo.cs
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.csproj.CoreCompileInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/bin/Debug/net6.0/Task66
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/bin/Debug/net6.0/Task66.deps.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/bin/Debug/net6.0/Task66.runtimeconfig.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/bin/Debug/net6.0/Task66.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/bin/Debug/net6.0/Task66.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/refint/Task66.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/Task66.genruntimeconfig.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар9/Task66/obj/Debug/net6.0/ref/Task66.dll
